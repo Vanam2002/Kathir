@@ -136,8 +136,8 @@ Nᴀᴍᴇ - {}"""
     OWNER_INFO = """
 <b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
     
-• ꜰᴜʟʟ ɴᴀᴍᴇ : 𒆜 Sᴘʏ Sᴘɪᴅᴇʏ࿐
-• ᴜꜱᴇʀɴᴀᴍᴇ : @SpySpidey
+• ꜰᴜʟʟ ɴᴀᴍᴇ : 𒆜 ᴋᴜᴛᴛʏᴘᴏɴɴᴜ࿐
+• ᴜꜱᴇʀɴᴀᴍᴇ : @Anand_2K
 • ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='https://t.me/Movie_AdminContact_Bot'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
 
     REQINFO = """
@@ -187,18 +187,18 @@ Nᴀᴍᴇ - {}"""
 ╰─────── • ◆ • ───────╯
 
 =========== • ✠ • ===========
-▫️ ᴄʜᴀɴɴᴇʟ : @Sky_LinkZ
-▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : https://t.me/+WnZsXs_fNoM2M2U1
+▫️ ᴄʜᴀɴɴᴇʟ : @ARmovies_world
+▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : https://t.me/AR_LINK_Z
 =========== • ✠ • ===========</b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {query}
 IMDb Data:
 
-🏷 Title: <a href={url}>{title}</a>
-🎭 Genres: {genres}
-📆 Year: <a href={url}/releaseinfo>{year}</a>
-🌟 Rating: <a href={url}/ratings>{rating}</a> / 10</b>"""
+🏷 𝗧𝗶𝘁𝗹𝗲: <a href={url}>{title}</a>
+🎭 𝗚𝗲𝗻𝗿𝗲𝘀: {genres}
+📆 𝗬𝗲𝗮𝗿: <a href={url}/releaseinfo>{year}</a>
+🌟 𝗥𝗮𝘁𝗶𝗻𝗴: <a href={url}/ratings>{rating}</a> / 10</b>"""
     
     ALL_FILTERS = """
 <b>Hᴇʏ {}, Tʜᴇsᴇ ᴀʀᴇ ᴍʏ ᴛʜʀᴇᴇ ᴛʏᴘᴇs ᴏғ ғɪʟᴛᴇʀs.</b>"""
